@@ -31,7 +31,7 @@
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
         <name>Request Loaner Vehicle</name>
-        <no_attachment_v2>true</no_attachment_v2>
+        <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
         <no_delivery_time_v2>false</no_delivery_time_v2>
@@ -40,7 +40,7 @@
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>false</no_quantity>
         <no_quantity_v2>false</no_quantity_v2>
-        <no_save_as_draft>true</no_save_as_draft>
+        <no_save_as_draft>false</no_save_as_draft>
         <no_search>false</no_search>
         <no_wishlist_v2>false</no_wishlist_v2>
         <omit_price>false</omit_price>
@@ -88,14 +88,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-08-01 21:57:33</sys_created_on>
         <sys_id>79c4c14583fb4250b807c1ffeeaad36a</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_name>Request Loaner Vehicle</sys_name>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
         <sys_update_name>sc_cat_item_producer_79c4c14583fb4250b807c1ffeeaad36a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-02 20:12:52</sys_updated_on>
+        <sys_updated_on>2024-08-15 03:10:53</sys_updated_on>
         <table_name>x_1399238_lva_vehicle_tracker</table_name>
         <taxonomy_topic/>
         <template/>
@@ -103,7 +103,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>5</version>
+        <version>39</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
