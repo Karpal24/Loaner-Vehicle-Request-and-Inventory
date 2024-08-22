@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="df2b8570833b0250b807c1ffeeaad349" sys_domain="global" table="x_1399238_lva_vehicle_servicing_t" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_issues</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-01 03:47:03</sys_created_on>
+            <sys_id>6f2b8570833b0250b807c1ffeeaad386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1399238_lva_vehicle_servicing_t" sys_domain="global" view="Default view">df2b8570833b0250b807c1ffeeaad349</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-01 03:47:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_performed</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-01 03:47:03</sys_created_on>
+            <sys_id>e32b8570833b0250b807c1ffeeaad387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1399238_lva_vehicle_servicing_t" sys_domain="global" view="Default view">df2b8570833b0250b807c1ffeeaad349</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-01 03:47:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1399238_lva_vehicle_servicing_t</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-01 03:47:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df2b8570833b0250b807c1ffeeaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1399238_lva_vehicle_servicing_t</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+            <sys_update_name>sys_ui_section_df2b8570833b0250b807c1ffeeaad349</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-01 03:47:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</application>
+        <file_path/>
+        <instance_id>f612c7ccdb863d14caf99027c596195a</instance_id>
+        <instance_name>dev189149</instance_name>
+        <name>sys_ui_section_df2b8570833b0250b807c1ffeeaad349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="df2b8570833b0250b807c1ffeeaad349" sys_domain="global" table="x_1399238_lva_vehicle_servicing_t" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>vehicle_issues</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-01 03:47:03</sys_created_on><sys_id>6f2b8570833b0250b807c1ffeeaad386</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1399238_lva_vehicle_servicing_t" sys_domain="global" view="Default view">df2b8570833b0250b807c1ffeeaad349</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-01 03:47:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_performed</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-01 03:47:03</sys_created_on><sys_id>e32b8570833b0250b807c1ffeeaad387</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1399238_lva_vehicle_servicing_t" sys_domain="global" view="Default view">df2b8570833b0250b807c1ffeeaad349</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-01 03:47:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1399238_lva_vehicle_servicing_t</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-01 03:47:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>df2b8570833b0250b807c1ffeeaad349</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1399238_lva_vehicle_servicing_t</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope><sys_update_name>sys_ui_section_df2b8570833b0250b807c1ffeeaad349</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-01 03:47:02</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1138555560</payload_hash>
+        <record_name>Vehicle Servicing</record_name>
+        <reverted_from/>
+        <source>46804ac483334e10b807c1ffeeaad3e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-01 03:47:03</sys_created_on>
+        <sys_id>a32b8570833b0250b807c1ffeeaad389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1910c0c604f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-01 03:47:03</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>2b2b8570cc3b0250a5d8d40e920b0788</update_guid>
+        <update_guid_history>2b2b8570cc3b0250a5d8d40e920b0788:-1138555560</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-01 03:48:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1030f2530f33456e8375e38b13f5cc79</sys_id>
+        <sys_metadata>df2b8570833b0250b807c1ffeeaad349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_parent display_value="Vehicle Servicing">4d6701f883f70250b807c1ffeeaad3d4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_scope_delete display_value="">04d10781eaea4990801aa7ab76070640</sys_scope_delete>
+        <sys_update_name>sys_ui_section_df2b8570833b0250b807c1ffeeaad349</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_df2b8570833b0250b807c1ffeeaad349">a32b8570833b0250b807c1ffeeaad389</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-01 03:48:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

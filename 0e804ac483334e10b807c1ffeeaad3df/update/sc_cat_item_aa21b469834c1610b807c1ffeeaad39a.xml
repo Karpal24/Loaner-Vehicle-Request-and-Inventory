@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value=" Loaner Vehicle ">2581319d83b3c250b807c1ffeeaad369</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>To create an automated process for requesting loaner vehicles through a self-service portal to replace the current manual process. This change is sought to address delays in obtaining vehicles, which hinder contractors&#39; daily operations. This project will manage vehicle inventory, track availability, and streamline the request, approval, and delivery process into a single flow.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Request Loaner Vehicle Flow and Workflow">7cfa8f5b83c85210b807c1ffeeaad3f5</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Loaner Vehicle 2</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>9c417069834c1610b807c1ffeeaad382</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=aa21b469834c1610b807c1ffeeaad39a&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
+        <short_description>Request Loaner Vehicle App Form</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 20:04:31</sys_created_on>
+        <sys_id>aa21b469834c1610b807c1ffeeaad39a</sys_id>
+        <sys_mod_count>47</sys_mod_count>
+        <sys_name>Loaner Vehicle 2</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_update_name>sc_cat_item_aa21b469834c1610b807c1ffeeaad39a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-21 19:41:55</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>47</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa21b469834c1610b807c1ffeeaad39a"/>
+    <fx_price action="delete_multiple" query="id=aa21b469834c1610b807c1ffeeaad39a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>aa21b469834c1610b807c1ffeeaad39a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 20:04:31</sys_created_on>
+        <sys_id>2a21b469834c1610b807c1ffeeaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 20:04:31</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>car2.png</file_name>
+        <hash>725fe144c63348040be18749b96a4f8cb27c599c6c57dc3429c68d4d6dda585c</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>2603</size_bytes>
+        <size_compressed>2575</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 20:04:55</sys_created_on>
+        <sys_id>9c417069834c1610b807c1ffeeaad382</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 20:04:55</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>aa21b469834c1610b807c1ffeeaad39a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="car2.png" sys_id="9c417069834c1610b807c1ffeeaad382">9c417069834c1610b807c1ffeeaad382</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 20:04:55</sys_created_on>
+        <sys_id>dc417069834c1610b807c1ffeeaad382</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3420</length>
+        <position>1</position>
+        <sys_attachment display_value="car2.png" sys_id="9c417069834c1610b807c1ffeeaad382">9c417069834c1610b807c1ffeeaad382</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 20:04:55</sys_created_on>
+        <sys_id>50417069834c1610b807c1ffeeaad383</sys_id>
+    </sys_attachment_doc>
+</record_update>
