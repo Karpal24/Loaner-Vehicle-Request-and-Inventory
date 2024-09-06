@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4fdc6adc83f78e10b807c1ffeeaad3ff" label="LVR_Catalog" max_length="40" name="x_1399238_lva_lvr" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Vehicle Year" mandatory="true" max_length="40" name="vehicle_year" type="string"/>
+        <element choice="1" label="Vehicle Make" mandatory="true" max_length="40" name="vehicle_make" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Ford" value="Ford"/>
+                <element inactive_on_update="false" label="Chevrolet" value="Chevrolet"/>
+                <element inactive_on_update="false" label="Toyota" value="Toyota"/>
+            </choice>
+        </element>
+        <element choice="3" label="Vehicle Description" mandatory="true" max_length="1000" name="vehicle_description" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Horsepower - 310 hp Cargo Volume - 487.3  cu ft" value="Horsepower - 310 hp Cargo Volume - 487.3  cu ft"/>
+                <element inactive_on_update="false" label="Horsepower - 475 hpTowing Capacity - 16,700 lbsTorque - 1,050 lb-ftPayload - 7,190 pounds" value="Horsepower - 475 hpTowing Capacity - 16,700 lbsTorque - 1,050 lb-ftPayload - 7,190 pounds"/>
+                <element inactive_on_update="false" label="Horsepower - 308 hp Torque - 275 lb-ft Towing Capacity - 7600 lbs" value="Horsepower - 308 hp Torque - 275 lb-ft Towing Capacity - 7600 lbs"/>
+                <element inactive_on_update="false" label="Horsepower - 278  hp Towing Capacity - 6800 lbs Torque - 265  lb-ft" value="Horsepower - 278  hp Towing Capacity - 6800 lbs Torque - 265  lb-ft"/>
+            </choice>
+        </element>
+        <element choice="3" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" value="available"/>
+                <element inactive_on_update="false" label="Decommissioned" value="decommissioned"/>
+                <element inactive_on_update="false" label="Unavailable" value="unavailable"/>
+            </choice>
+        </element>
+        <element choice="1" label="Vehicle Model" mandatory="true" max_length="40" name="vehicle_model" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Transit 350 HD Cargo Van" value="Transit 350 HD Cargo Van"/>
+                <element inactive_on_update="false" label="F350 Super Duty Super Cab" value="F350 Super Duty Super Cab"/>
+                <element inactive_on_update="false" label="Colorado Crew Cab" value="Colorado Crew Cab"/>
+                <element inactive_on_update="false" label="Tacoma Access Cab" value="Tacoma Access Cab"/>
+            </choice>
+        </element>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+    </element>
+</database>

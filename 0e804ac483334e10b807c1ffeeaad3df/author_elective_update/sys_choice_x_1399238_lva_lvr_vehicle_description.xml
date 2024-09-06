@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="vehicle_description" table="x_1399238_lva_lvr" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>vehicle_description</element>
+            <name>x_1399238_lva_lvr</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 22:22:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>vehicle_description</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+            <sys_update_name>sys_choice_x_1399238_lva_lvr_vehicle_description</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 22:22:27</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Horsepower - 278  hp Towing Capacity - 6800 lbs Torque - 265  lb-ft</label>
+            <language>en</language>
+            <name>x_1399238_lva_lvr</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 22:22:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 22:25:01</sys_updated_on>
+            <value>Horsepower - 278  hp Towing Capacity - 6800 lbs Torque - 265  lb-ft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Horsepower - 308 hp Torque - 275 lb-ft Towing Capacity - 7600 lbs</label>
+            <language>en</language>
+            <name>x_1399238_lva_lvr</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 22:23:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 22:24:50</sys_updated_on>
+            <value>Horsepower - 308 hp Torque - 275 lb-ft Towing Capacity - 7600 lbs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Horsepower - 310 hp Cargo Volume - 487.3  cu ft</label>
+            <language>en</language>
+            <name>x_1399238_lva_lvr</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 22:23:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 22:24:29</sys_updated_on>
+            <value>Horsepower - 310 hp Cargo Volume - 487.3  cu ft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>vehicle_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Horsepower - 475 hpTowing Capacity - 16,700 lbsTorque - 1,050 lb-ftPayload - 7,190 pounds</label>
+            <language>en</language>
+            <name>x_1399238_lva_lvr</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 22:22:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 22:24:40</sys_updated_on>
+            <value>Horsepower - 475 hpTowing Capacity - 16,700 lbsTorque - 1,050 lb-ftPayload - 7,190 pounds</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
