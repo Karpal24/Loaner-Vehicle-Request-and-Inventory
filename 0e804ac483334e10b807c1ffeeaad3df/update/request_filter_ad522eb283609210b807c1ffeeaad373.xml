@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="request_filter">
+    <request_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>10</applies_to>
+        <data_item/>
+        <filter/>
+        <group/>
+        <item_stream/>
+        <last_used/>
+        <mobile>false</mobile>
+        <portal_page display_value="standard_ticket">c729488287310010e0ef0cf888cb0ba8</portal_page>
+        <primary_display/>
+        <roles/>
+        <secondary_display>number,approval,short_description,state,sys_updated_on</secondary_display>
+        <short_description/>
+        <sys_class_name>request_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 22:05:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad522eb283609210b807c1ffeeaad373</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Vehicle Requests</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_update_name>request_filter_ad522eb283609210b807c1ffeeaad373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 22:08:52</sys_updated_on>
+        <table>sc_request</table>
+        <table_name/>
+        <title>My Vehicle Requests</title>
+        <user/>
+    </request_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad522eb283609210b807c1ffeeaad373"/>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page_title_variable">
+    <sp_page_title_variable action="INSERT_OR_UPDATE">
+        <column_name>sys_id</column_name>
+        <filter_condition table="x_1399238_lva_lvr">status=available^EQ<item display_value="Available" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="available"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <id_parameter>sys_id</id_parameter>
+        <order>100</order>
+        <source_field>vehicle_description</source_field>
+        <source_table>x_1399238_lva_lvr</source_table>
+        <sp_page display_value="vehicle_catalog">92f422da8358d210b807c1ffeeaad38e</sp_page>
+        <sys_class_name>sp_page_title_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 22:53:07</sys_created_on>
+        <sys_id>3a656ada8358d210b807c1ffeeaad3d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Cat1</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_update_name>sp_page_title_variable_3a656ada8358d210b807c1ffeeaad3d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 22:53:07</sys_updated_on>
+        <variable>Vehicle Cat1</variable>
+    </sp_page_title_variable>
+</record_update>

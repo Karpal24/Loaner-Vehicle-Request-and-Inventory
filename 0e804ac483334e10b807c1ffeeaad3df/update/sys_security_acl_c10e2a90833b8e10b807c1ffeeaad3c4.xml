@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-30 21:41:54</sys_created_on>
         <sys_id>c10e2a90833b8e10b807c1ffeeaad3c4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_1399238_lva_lvr</sys_name>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
         <sys_update_name>sys_security_acl_c10e2a90833b8e10b807c1ffeeaad3c4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-30 21:41:54</sys_updated_on>
+        <sys_updated_on>2024-08-29 02:28:35</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

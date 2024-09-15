@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>@media (max-width: 767px) {
+  .wrapper-xl {
+    padding: 25px 15px !important;
+  }
+  .text-4x {
+    font-size: 3em;
+  }
+}</css>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4430b01c83ec1e10b807c1ffeeaad34d</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 19:19:15</sys_created_on>
+        <sys_id>0430b01c83ec1e10b807c1ffeeaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome to Service Portal - Landing</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_update_name>sp_instance_0430b01c83ec1e10b807c1ffeeaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 19:19:15</sys_updated_on>
+        <title>Welcome to Service Portal - Landing</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div class=\"wrapper-xl welcome\">\n<h2 class=\"text-white text-4x h1\" role=\"presentation\">${Welcome to the<br /> Service Portal}</h2>\n<h3 class=\"text-white\" role=\"presentation\">${Log in to order things, get help or report an issue}</h3>\n</div>",
+		"displayValue": "<div class=\"wrapper-xl welcome\">\n<h2 class=\"text-white text-4x h1\" role=\"presentation\">${Welcome to the<br /> Service Portal}</h2>\n<h3 class=\"text-white\" role=\"presentation\">${Log in to order things, get help or report an issue}</h3>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=0430b01c83ec1e10b807c1ffeeaad350"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</application>
+        <file_path/>
+        <instance_id>f612c7ccdb863d14caf99027c596195a</instance_id>
+        <instance_name>dev189149</instance_name>
+        <name>sp_instance_0430b01c83ec1e10b807c1ffeeaad350</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css&gt;@media (max-width: 767px) {
+  .wrapper-xl {
+    padding: 25px 15px !important;
+  }
+  .text-4x {
+    font-size: 3em;
+  }
+}&lt;/css&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;0&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;4430b01c83ec1e10b807c1ffeeaad34d&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-05 19:19:15&lt;/sys_created_on&gt;&lt;sys_id&gt;0430b01c83ec1e10b807c1ffeeaad350&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Welcome to Service Portal - Landing&lt;/sys_name&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva"&gt;0e804ac483334e10b807c1ffeeaad3df&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory"&gt;0e804ac483334e10b807c1ffeeaad3df&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_0430b01c83ec1e10b807c1ffeeaad350&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-05 19:19:15&lt;/sys_updated_on&gt;&lt;title&gt;Welcome to Service Portal - Landing&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;div class=\"wrapper-xl welcome\"&gt;\n&lt;h2 class=\"text-white text-4x h1\" role=\"presentation\"&gt;${Welcome to the&lt;br /&gt; Service Portal}&lt;/h2&gt;\n&lt;h3 class=\"text-white\" role=\"presentation\"&gt;${Log in to order things, get help or report an issue}&lt;/h3&gt;\n&lt;/div&gt;",
+		"displayValue": "&lt;div class=\"wrapper-xl welcome\"&gt;\n&lt;h2 class=\"text-white text-4x h1\" role=\"presentation\"&gt;${Welcome to the&lt;br /&gt; Service Portal}&lt;/h2&gt;\n&lt;h3 class=\"text-white\" role=\"presentation\"&gt;${Log in to order things, get help or report an issue}&lt;/h3&gt;\n&lt;/div&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0430b01c83ec1e10b807c1ffeeaad350"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1545766910</payload_hash>
+        <record_name>Welcome to Service Portal - Landing</record_name>
+        <reverted_from/>
+        <source>c747a25883f78e10b807c1ffeeaad333</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 19:19:15</sys_created_on>
+        <sys_id>c030b01c83ec1e10b807c1ffeeaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c3a06a6e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 19:19:15</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>c430b01c93ec1e101323c782b7991352</update_guid>
+        <update_guid_history>c430b01c93ec1e101323c782b7991352:1545766910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Welcome to Service Portal - Landing">02b0b81c83ec1e10b807c1ffeeaad34d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 19:21:34</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>29bc7cd2b1394798a481f4784b9b8e44</sys_id>
+        <sys_metadata>0430b01c83ec1e10b807c1ffeeaad350</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome to Service Portal - Landing</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_scope_delete display_value="">04d10781eaea4990801aa7ab76070640</sys_scope_delete>
+        <sys_update_name>sp_instance_0430b01c83ec1e10b807c1ffeeaad350</sys_update_name>
+        <sys_update_version display_value="sp_instance_0430b01c83ec1e10b807c1ffeeaad350">c030b01c83ec1e10b807c1ffeeaad353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 19:21:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

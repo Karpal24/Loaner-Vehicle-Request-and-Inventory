@@ -39,9 +39,9 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Hi ${requested_for},</p>
-<p><br />The vehicle request you entered has been delivered to your location. Please take note of this ticket number and present it to the Warehouse personnel when you return the vehicle. <br />Thank you!</p>
-<p>Opened by: ${opened_by}</p>]]></message_html>
+        <message_html><![CDATA[<p>Hi ${opened_by},&nbsp;</p>
+<p><br />The vehicle request you entered has been delivered to your location. Please take note of this ticket number ${sc_req_item.number} and present it to the Warehouse personnel when you return the vehicle. <br />Thank you!</p>
+<p>${opened_by}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>RLV_Notify</name>
@@ -63,7 +63,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>044c802783409210b807c1ffeeaad350</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>RLV_Notify</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
@@ -71,7 +71,7 @@
         <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
         <sys_update_name>sysevent_email_action_044c802783409210b807c1ffeeaad350</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-21 23:48:16</sys_updated_on>
+        <sys_updated_on>2024-08-22 22:51:49</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

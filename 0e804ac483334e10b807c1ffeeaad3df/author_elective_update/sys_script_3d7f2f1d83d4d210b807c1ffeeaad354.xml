@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>false</active>
+        <add_message>true</add_message>
+        <advanced>false</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_1399238_lva_vehicle_tracker</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_1399238_lva_vehicle_tracker">vehicle_status=decommissioned^EQ<item display_value="Decommissioned" endquery="false" field="vehicle_status" goto="false" newquery="false" operator="=" or="false" value="decommissioned"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p>Vehicle is canceled.</p>]]></message>
+        <name>Return to warehouse</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-28 01:35:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d7f2f1d83d4d210b807c1ffeeaad354</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>Return to warehouse</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_update_name>sys_script_3d7f2f1d83d4d210b807c1ffeeaad354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 19:50:55</sys_updated_on>
+        <template>additional_comments=we need to cancel the vehicle^EQ</template>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=3d7f2f1d83d4d210b807c1ffeeaad354"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</application>
+        <file_path/>
+        <instance_id>f612c7ccdb863d14caf99027c596195a</instance_id>
+        <instance_name>dev189149</instance_name>
+        <name>sys_script_3d7f2f1d83d4d210b807c1ffeeaad354</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;true&lt;/add_message&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_1399238_lva_vehicle_tracker&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="x_1399238_lva_vehicle_tracker"&gt;vehicle_status=decommissioned^EQ&lt;item display_value="Decommissioned" endquery="false" field="vehicle_status" goto="false" newquery="false" operator="=" or="false" value="decommissioned"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message&gt;&lt;![CDATA[&lt;p&gt;Vehicle is canceled.&lt;/p&gt;]]&gt;&lt;/message&gt;&lt;name&gt;Return to warehouse&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-08-28 01:35:06&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3d7f2f1d83d4d210b807c1ffeeaad354&lt;/sys_id&gt;&lt;sys_mod_count&gt;28&lt;/sys_mod_count&gt;&lt;sys_name&gt;Return to warehouse&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva"&gt;0e804ac483334e10b807c1ffeeaad3df&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory"&gt;0e804ac483334e10b807c1ffeeaad3df&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_3d7f2f1d83d4d210b807c1ffeeaad354&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-08-29 19:50:55&lt;/sys_updated_on&gt;&lt;template&gt;additional_comments=we need to cancel the vehicle^EQ&lt;/template&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3d7f2f1d83d4d210b807c1ffeeaad354"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1117999604</payload_hash>
+        <record_name>Return to warehouse</record_name>
+        <reverted_from/>
+        <source>c747a25883f78e10b807c1ffeeaad333</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 19:50:55</sys_created_on>
+        <sys_id>2f44fc82835c5210b807c1ffeeaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1919fb0e2570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 19:50:55</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>ef44fc82f95c52103461417740a327ef</update_guid>
+        <update_guid_history>ef44fc82f95c52103461417740a327ef:-1117999604,5006d04ef49852105b1267117712eef8:405451621,f2b5140ef9985210418968909b546084:1639113638,8b8f0006f39852109accc80def835a2e:405451621,844f4406d6985210e2184d011ecc65ee:1262645230,ebad4c4263985210344034b352ce4eda:2022261763,d0fc8c02b99852109544394fd9d2487b:1907696751,30cc4c02c0985210f611aba9452a8b60:-843642770,d68cccce355852107a6d0be5f02d77b2:202801985,2b6c4ccee95852108058ab200629007a:1796424891,2f3c4c4ee6585210d19095468f2f4334:202801985,d03c000274985210a62f545d2674ba74:-1604039308,12a915f1561c12104ff47f9dda077a27:-1872678593,112d85b163d81210fc97c3d63321546d:1922667410,309c0d717dd81210ceb35c27d672a0dd:506080434,8e1c89312fd81210a26f669cb7c4986b:-332994145,489901bdbe98121008200b6c21a8f51b:-1744274126,10478d791b981210a8d69d81ea9391b3:-1334294446,2156c17986981210cae756e0c3719f69:431818373,1bb201358d981210d7c2d8f59a0c9af8:975320812,d562c1f11d981210aaad4db527abd5f1:431818373,6bf18dfde6581210916f4e4456f6959b:-1998737596,c39149b11e981210a2c83fa60fe76902:-1996154189,8191cd7ddc581210693c9ceefdd79430:-925368806,049109b1759812101572afcfb88f563a:-1704110595,74bfaf6d32d012106c1d2ead9f9ef3e2:824743882,4111b79d4fd4d2105b39b5b7ad96ece2:-1778614313,ec00bb5d87d4d2109ba5139f9bf164ad:688993650,f1ef635d0dd4d21061f10ee00eacc8f5:1955542130</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 23:13:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>00478ad942044a58823a9fcc806454c4</sys_id>
+        <sys_metadata>3d7f2f1d83d4d210b807c1ffeeaad354</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Return to warehouse</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_parent display_value="Vehicle Tracker">67b20cb483b30250b807c1ffeeaad3f5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_scope_delete display_value="">04d10781eaea4990801aa7ab76070640</sys_scope_delete>
+        <sys_update_name>sys_script_3d7f2f1d83d4d210b807c1ffeeaad354</sys_update_name>
+        <sys_update_version display_value="sys_script_3d7f2f1d83d4d210b807c1ffeeaad354">2f44fc82835c5210b807c1ffeeaad3f0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 23:13:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

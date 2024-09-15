@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="1">12a036e3839c5a10b807c1ffeeaad34c</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 20:45:06</sys_created_on>
+        <sys_id>1ea036e3839c5a10b807c1ffeeaad34e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>How can we help?</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_update_name>sp_instance_ais_1ea036e3839c5a10b807c1ffeeaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 20:51:29</sys_updated_on>
+        <title>How can we help?</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=1ea036e3839c5a10b807c1ffeeaad34e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</application>
+        <file_path/>
+        <instance_id>f612c7ccdb863d14caf99027c596195a</instance_id>
+        <instance_name>dev189149</instance_name>
+        <name>sp_instance_ais_1ea036e3839c5a10b807c1ffeeaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>2</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>lg</size><sp_column display_value="1">12a036e3839c5a10b807c1ffeeaad34c</sp_column><sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 20:45:06</sys_created_on><sys_id>1ea036e3839c5a10b807c1ffeeaad34e</sys_id><sys_mod_count>3</sys_mod_count><sys_name>How can we help?</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope><sys_update_name>sp_instance_ais_1ea036e3839c5a10b807c1ffeeaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 20:51:29</sys_updated_on><title>How can we help?</title><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=1ea036e3839c5a10b807c1ffeeaad34e"/></record_update>]]></payload>
+        <payload_hash>305940806</payload_hash>
+        <record_name>How can we help?</record_name>
+        <reverted_from/>
+        <source>c747a25883f78e10b807c1ffeeaad333</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 20:51:29</sys_created_on>
+        <sys_id>2312b667839c5a10b807c1ffeeaad314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b9a821180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 20:51:29</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>a712b667959c5a1016f018cbd9fb9413</update_guid>
+        <update_guid_history>a712b667959c5a1016f018cbd9fb9413:305940806,26127667c69c5a10fb6d1f44c1f36fa6:-1423712409,0e02ba27f89c5a109f4725b04a292fc5:305940806,16a036e39d9c5a1020aa3ed3c96c8250:1141601672</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="How can we help?">5b327627839c5a10b807c1ffeeaad36d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 20:52:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>043a421b59e641c6820fb05d81bb0464</sys_id>
+        <sys_metadata>1ea036e3839c5a10b807c1ffeeaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>How can we help?</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1399238_lva">0e804ac483334e10b807c1ffeeaad3df</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0e804ac483334e10b807c1ffeeaad3df</sys_scope>
+        <sys_scope_delete display_value="">04d10781eaea4990801aa7ab76070640</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_1ea036e3839c5a10b807c1ffeeaad34e</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_1ea036e3839c5a10b807c1ffeeaad34e">2312b667839c5a10b807c1ffeeaad314</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 20:52:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
